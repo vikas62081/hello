@@ -1,6 +1,9 @@
 {
   "main.css": "static/css/main.d41d8cd9.css",
   "main.css.map": "static/css/main.d41d8cd9.css.map",
-  "main.js": "static/js/main.f90d2620.js",
-  "main.js.map": "static/js/main.f90d2620.js.map"
+  "main.js": "static/js/main.59e4f57f.js",
+  "main.js.map": "static/js/main.59e4f57f.js.map",
+  "static\\media\\covid-tracker.PNG": "static/media/covid-tracker.2c893294.PNG",
+  "static\\media\\profilepic.JPG": "static/media/profilepic.0db50f34.JPG",
+  "static\\media\\todos.PNG": "static/media/todos.01bbf7bf.PNG"
 }
