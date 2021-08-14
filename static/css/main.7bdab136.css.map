@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,iCACI,UAAY","file":"static/css/main.7bdab136.css","sourcesContent":["#contact input, #contact textarea{\r\n    color:black;\r\n}\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
